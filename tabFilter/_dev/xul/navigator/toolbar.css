@@ -1,0 +1,4 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#myExt-toolbarbutton{list-style-image: url("__ICON_URL24__");}
+toolbar[iconsize="small"] #myExt-toolbarbutton{list-style-image: url("__ICON_URI16__");}

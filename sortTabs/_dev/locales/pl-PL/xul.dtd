@@ -1,0 +1,8 @@
+<!ENTITY sortTabs.sort.tabs.by.url "Sortuj karty wg adresu URL">
+<!ENTITY sortTabs.options.close.duplicates "Zamknij duplikaty kart">
+<!ENTITY sortTabs.options.close.blank.tabs "Zamknij puste karty">
+<!ENTITY sortTabs.options.sort.reverse "Odwróć kierunek sortowania [a-b-c] -&gt; [c-b-a]">
+<!ENTITY sortTabs.options.configuration "Ustawienia">
+<!ENTITY sortTabs.options.apply "Zastosuj">
+<!ENTITY sortTabs.options.save "Zapisz">
+<!ENTITY sortTabs.options.cancel "Anuluj">

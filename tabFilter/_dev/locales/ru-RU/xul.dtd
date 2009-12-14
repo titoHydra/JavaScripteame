@@ -1,0 +1,8 @@
+<!ENTITY tabFilter.filter.tabs "Фильтровать вкладки…">
+<!ENTITY tabFilter.undo.tab.filter "Отменить фильтрование вкладок">
+<!ENTITY tabFilter.filter "Фильтр">
+<!ENTITY tabFilter.title "Заголовок">
+<!ENTITY tabFilter.url "Адрес">
+<!ENTITY tabFilter.both "Оба">
+<!ENTITY tabFilter.close.window "Закрыть окно">
+<!ENTITY tabFilter.tabFilter "Фильтр вкладок:">

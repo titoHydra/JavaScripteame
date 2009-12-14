@@ -1,0 +1,8 @@
+<!ENTITY sortTabs.sort.tabs.by.url "以URL排序标签">
+<!ENTITY sortTabs.options.close.duplicates "关闭重复的标签">
+<!ENTITY sortTabs.options.close.blank.tabs "关闭空白标签">
+<!ENTITY sortTabs.options.sort.reverse "反向排序[a-b-c] -&gt; [c-b-a]">
+<!ENTITY sortTabs.options.configuration "设置">
+<!ENTITY sortTabs.options.apply "应用">
+<!ENTITY sortTabs.options.save "保存">
+<!ENTITY sortTabs.options.cancel "取消">

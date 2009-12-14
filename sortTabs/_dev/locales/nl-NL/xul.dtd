@@ -1,0 +1,8 @@
+<!ENTITY sortTabs.sort.tabs.by.url "Tabbladen op URL sorteren">
+<!ENTITY sortTabs.options.close.duplicates "Dubbelen sluiten">
+<!ENTITY sortTabs.options.close.blank.tabs "Lege tabbladen sluiten">
+<!ENTITY sortTabs.options.sort.reverse "Sortering omkeren [a-b-c] -&gt; [c-b-a]">
+<!ENTITY sortTabs.options.configuration "Instellingen">
+<!ENTITY sortTabs.options.apply "Toepassen">
+<!ENTITY sortTabs.options.save "Opslaan">
+<!ENTITY sortTabs.options.cancel "Annuleren">

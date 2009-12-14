@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+__LANG_DTD__
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+	<script type="application/x-javascript">
+		<![CDATA[
+			addEventListener("load", 
+				function()
+				{
+					if(document.getElementById('extensionName').getAttribute('value') == "__EXT_NOMBRE__")
+					{
+						document.getElementById('myExt-extensionHomepageDonateLink').setAttribute('hidden', false);
+						document.getElementById('myExt-extensionJoinTranslationTeam').setAttribute('hidden', false);
+					}
+				}
+			, false);
+		]]>
+	</script>
+
+		<hbox id="creatorBox">
+				<label id="myExt-extensionHomepageDonateLink"
+					onclick="if (event.button == 0){ loadHomepage(event); }" 
+					class="text-link"
+					hidden="true"
+					value="&myExt.send.a.gift;" 
+					homepageURL="__EXT_DONATE__" 
+					tooltiptext="__EXT_DONATE__"
+				/>
+		</hbox>
+		<vbox id="translatorsBox" class="boxIndent">
+			<label style="padding:0px;margin:0px;border:0px;margin-bottom:6px;margin-top:6px;" id="myExt-extensionJoinTranslationTeam"
+				onclick="if (event.button == 0){ loadHomepage(event); }" 
+				class="text-link"
+				hidden="true"
+				value="&myExt.join.babelzilla.team;" 
+				homepageURL="http://www.babelzilla.org/" 
+				tooltiptext="http://www.babelzilla.org/"
+			/>
+		</vbox>
+
+</overlay>

@@ -1,0 +1,8 @@
+<!ENTITY tabFilter.filter.tabs "Filtre d'onglets…">
+<!ENTITY tabFilter.undo.tab.filter "Annuler le filtre d'onglet">
+<!ENTITY tabFilter.filter "Filtre…">
+<!ENTITY tabFilter.title "Titre">
+<!ENTITY tabFilter.url "Adresse">
+<!ENTITY tabFilter.both "Les deux">
+<!ENTITY tabFilter.close.window "Fermer">
+<!ENTITY tabFilter.tabFilter "Filtre d'onglet :">

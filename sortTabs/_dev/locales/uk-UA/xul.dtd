@@ -1,0 +1,8 @@
+<!ENTITY sortTabs.sort.tabs.by.url "Відсортувати вкладки за URL">
+<!ENTITY sortTabs.options.close.duplicates "Закрити копії">
+<!ENTITY sortTabs.options.close.blank.tabs "Закрити пусті вкладки">
+<!ENTITY sortTabs.options.sort.reverse "Змінити напрям сортування [а-б-в]-&gt;[в-б-а]">
+<!ENTITY sortTabs.options.configuration "Опції">
+<!ENTITY sortTabs.options.apply "Застосувати">
+<!ENTITY sortTabs.options.save "Зберегти">
+<!ENTITY sortTabs.options.cancel "Відмінити">

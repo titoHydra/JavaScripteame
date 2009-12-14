@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+
+		<em:id>__EXT_ID__</em:id>
+		<em:name>__EXT_NOMBRE_QUOTE__</em:name>
+		<em:creator>__EXT_AUTOR__</em:creator>
+		<em:version>__EXT_VERSION__</em:version>
+		<em:description>__EXT_DESCRIPCION__</em:description>
+		__PREFERENCES_URL__
+		__EXT_HOME_PAGE__
+		__ICON_URL__
+
+		<em:translator>el_libre www.catmidia.cat ( Català )<!-- (ca-AD) --></em:translator>
+		<em:translator>Michal Kec (MiK) ( Čeština )<!-- (cs-CZ) --></em:translator>
+		<em:translator>Finn S. Sørensen(AlleyKat) ( Dansk )<!-- (da-DK) --></em:translator>
+		<em:translator>ingomueller.net ( Deutsch )<!-- (de-DE) --></em:translator>
+		<em:translator>tito ( Español, English )<!-- (xxx) --></em:translator>
+		<em:translator>myahoo ( Français )<!-- fr-FR --></em:translator>
+		<em:translator>mendinho ( Gaeilge )<!-- (gl-ES) --></em:translator>
+		<em:translator>MIKES KASZMÁN István ( Magyar )<!-- (hu-HU) --></em:translator>
+		<em:translator>Almotasim ( Italiano )<!-- (it-IT) --></em:translator>
+		<em:translator>용오름 (Wtspout) ( 한국어 )<!-- (ko-KR) --></em:translator>
+		<em:translator>jerone ( Nederlands )<!-- (nl-NL) --></em:translator>
+		<em:translator>Leszek(teo)Życzkowski ( Polski )<!-- (pl-PL) --></em:translator>
+		<em:translator>Carlos Simão, Alberto Eidh ( Português )<!-- (pt-PT) --></em:translator>
+		<em:translator>funalien ( Русский )<!-- (ru-RU) --></em:translator>
+		<em:translator>Kacnepcku - PC ( Σέρβια )<!-- (sr-RS) --></em:translator>
+		<em:translator>Володимир Савчук Volodymyr Savchuk ( Ukrainian )<!-- (uk-UA) --></em:translator>
+		<em:translator>ttakiol ( 中文 (简体), 正體中文 (繁體) )<!-- (zh-CN,zh-TW) --></em:translator>	
+			
+		<!-- Firefox -->
+			<em:targetApplication>
+				<Description>
+					<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+					<em:minVersion>3.0</em:minVersion>
+					<em:maxVersion>3.7a1pre</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+			
+		<!-- new SeaMonkey -->
+			<em:targetApplication>
+				<Description>
+					<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+					<em:minVersion>2.0</em:minVersion>
+					<em:maxVersion>2.1a1pre</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+			
+		<!-- flock -->
+			<em:targetApplication>
+				<Description>
+					<em:id>{a463f10c-3994-11da-9945-000d60ca027b}</em:id>
+					<em:minVersion>0.1</em:minVersion>
+					<em:maxVersion>10.+</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+			
+		<!-- netscape -->
+			<em:targetApplication>
+				<Description>
+					<em:id>{3db10fab-e461-4c80-8b97-957ad5f8ea47}</em:id>
+					<em:minVersion>0.1</em:minVersion>
+					<em:maxVersion>10.+</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+		
+	</Description>
+</RDF>

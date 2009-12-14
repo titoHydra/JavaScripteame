@@ -1,0 +1,48 @@
+
+	 <window id="main-window">
+		<menupopup 
+			id="myExt-menu-context-menu"
+			onpopupshowing="myExt.contextUpdate();"
+		>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_copy');" label="&myExt.email.copy;"/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_copy_all');" label="&myExt.email.copy.all;"/>
+			<menuseparator/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_compose_to');" label="&myExt.compose.to;"/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_compose_to_all');" label="&myExt.compose.to.all;"/>
+			<menuseparator/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_open_page');" label="&myExt.open.page.were.email.was.found;"/>
+			<menuseparator/>
+			<menuitem class="menuitem-non-iconic" id="myExt-menu-context-view-all-from-domain" oncommand="myExt.command(event, 'email_view_all_from_domain');" original_label="&myExt.view.all.from.domain;"/>
+			<menuseparator/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_delete');" label="&myExt.email.delete;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-menu-context-delete-from-domain" oncommand="myExt.command(event, 'email_delete_from_domain');" original_label="&myExt.email.delete.from.domain;"/>
+		</menupopup>
+		<menupopup 
+			id="myExt-button-context-menu"
+			onpopupshowing="myExt.contextUpdate();"
+		>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'email_search');" label="&myExt.email.search;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-add-to-domain" oncommand="myExt.command(event, 'email_add');" original_label="&myExt.email.add;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-add-selected-to-domain" oncommand="myExt.command(event, 'emails_add_selected');" original_label="&myExt.email.add.selected;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-copy-selected" oncommand="myExt.command(event, 'emails_copy_selected');" original_label="&myExt.email.copy.selected;"/>
+			
+			<menuseparator/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'database_export');" label="&myExt.database.export;"/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'database_import');" label="&myExt.database.import;"/>
+			<menuitem class="menuitem-non-iconic" oncommand="myExt.command(event, 'database_empty');" label="&myExt.database.empty;"/>
+			<menuseparator/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-domain-stop" oncommand="myExt.command(event, 'domain_block');" original_label="&myExt.collect.stop.for.domain;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-domain-start" oncommand="myExt.command(event, 'domain_unblock');" original_label="&myExt.collect.start.for.domain;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-extension-stop" oncommand="myExt.command(event, 'extension_stop');" label="&myExt.collect.stop;"/>
+			<menuitem class="menuitem-non-iconic" id="myExt-button-context-extension-start" oncommand="myExt.command(event, 'extension_start');" label="&myExt.collect.start;"/>
+		</menupopup>
+		<menupopup
+			last="about:blank"
+			id="myExt-menu"
+			type="menu"
+			position="after_end"
+			oncommand="myExt.command(event, 'email_compose_to')"
+			hidden="true"
+			context="myExt-menu-context-menu"
+		/>
+	</window>

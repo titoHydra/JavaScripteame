@@ -1,0 +1,23 @@
+<!ENTITY whereIsTheEmail.emails.for.domain.not.found "Ningún email fue recolectado">
+<!ENTITY whereIsTheEmail.emails.for.domain.found "$NUM emails recolectados">
+<!ENTITY whereIsTheEmail.email.copy "Copiar email">
+<!ENTITY whereIsTheEmail.email.copy.all "Copiar todos">
+<!ENTITY whereIsTheEmail.email.copy.selected "Copiar emails seleccionados">
+<!ENTITY whereIsTheEmail.compose.to "Componer mensaje a...">
+<!ENTITY whereIsTheEmail.compose.to.all "Componer mensaje a todos...">
+<!ENTITY whereIsTheEmail.open.page.were.email.was.found "Abrir página donde este email fue recolectado">
+<!ENTITY whereIsTheEmail.view.all.from.domain "Ver todos los emails para '$DOMAIN'">
+<!ENTITY whereIsTheEmail.email.delete "Borrar email">
+<!ENTITY whereIsTheEmail.email.delete.from.domain "Borrar todos de '$DOMAIN'">
+<!ENTITY whereIsTheEmail.email.search "Buscar email...">
+<!ENTITY whereIsTheEmail.email.add "Agregar email a '$DOMAIN'...">
+<!ENTITY whereIsTheEmail.email.add.selected "Agregar emails seleccionados a '$DOMAIN'">
+<!ENTITY whereIsTheEmail.database.empty "Vaciar la base de datos">
+<!ENTITY whereIsTheEmail.database.export "Exportar la base de datos">
+<!ENTITY whereIsTheEmail.database.import "Importar la base de datos">
+<!ENTITY whereIsTheEmail.collect.stop.for.domain "Dejar de recolectar emails para '$DOMAIN'">
+<!ENTITY whereIsTheEmail.collect.start.for.domain "Retomar la recolección de emails para '$DOMAIN'">
+<!ENTITY whereIsTheEmail.collect.stop "Dejar de recolectar emails completamente">
+<!ENTITY whereIsTheEmail.collect.start "Retomar la recolección de emails">
+<!ENTITY whereIsTheEmail.disabled "Deshabilitada">
+<!ENTITY whereIsTheEmail.disabled.for.domain "Deshabilitada para '$DOMAIN'">

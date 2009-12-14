@@ -1,0 +1,41 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#myExt-button,
+#myExt-button > .button-box,
+#myExt-button:hover:active > .button-box {
+	padding: 0px !important;
+	margin: 0px !important;
+	border: 0px !important;
+	background-color: transparent;
+	-moz-appearance: none !important;
+}
+
+#myExt-button > .button-box > .button-menu-dropmarker {
+	display: none;
+}
+
+#myExt-button {
+	-moz-appearance: none; 
+	-moz-user-focus: none;
+	min-width: 0px; 
+	padding: 0 2px !important;
+	list-style-image: url("chrome://myExt/content/xul/navigator/icons.png");
+	-moz-image-region: rect(0px 16px 16px 0px);
+}
+
+#myExt-button[status="emails_found"] {
+  -moz-image-region: rect(0px 32px 16px 16px);
+}
+#myExt-button[status="emails_not_found"] {
+	-moz-image-region: rect(0px 16px 16px 0px);
+}
+#myExt-button[status="extension_disabled"] {
+	-moz-image-region: rect(0px 64px 16px 48px);
+}
+#myExt-button[status="domain_disabled"] {
+	-moz-image-region: rect(0px 48px 16px 32px);
+}
+
+#myExt-button[open="true"],
+#myExt-button:hover:active {
+}
