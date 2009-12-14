@@ -1,0 +1,8 @@
+<!ENTITY sortTabs.sort.tabs.by.url "Seřadit panely podle URL">
+<!ENTITY sortTabs.options.close.duplicates "Zavřít duplicity">
+<!ENTITY sortTabs.options.close.blank.tabs "Zavřít prázdné panely">
+<!ENTITY sortTabs.options.sort.reverse "Obrácené řazení: [a-b-c] -&gt; [c-b-a]">
+<!ENTITY sortTabs.options.configuration "Konfigurace">
+<!ENTITY sortTabs.options.apply "Použít">
+<!ENTITY sortTabs.options.save "Uložit">
+<!ENTITY sortTabs.options.cancel "Zrušit">

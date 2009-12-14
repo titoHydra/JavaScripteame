@@ -1,0 +1,23 @@
+<!ENTITY whereIsTheEmail.emails.for.domain.not.found "Keine E-Mail-Adressen gesammelt">
+<!ENTITY whereIsTheEmail.emails.for.domain.found "$NUM E-Mail-Adresse(n) gesammelt">
+<!ENTITY whereIsTheEmail.email.copy "E-Mail-Adresse in die Zwischenablage kopieren">
+<!ENTITY whereIsTheEmail.email.copy.all "Alle Adressen in die Zwischenablage kopieren">
+<!ENTITY whereIsTheEmail.email.copy.selected "E-Mail-Adressen des Auswahltextes in die Zwischenablage kopieren">
+<!ENTITY whereIsTheEmail.compose.to "Neue Nachricht an...">
+<!ENTITY whereIsTheEmail.compose.to.all "Neue Nachricht an alle...">
+<!ENTITY whereIsTheEmail.open.page.were.email.was.found "Seite öffnen, auf der die E-Mail-Adresse gefunden wurde">
+<!ENTITY whereIsTheEmail.view.all.from.domain "Alle Adressen von '$DOMAIN' anzeigen">
+<!ENTITY whereIsTheEmail.email.delete "E-Mail-Adresse löschen">
+<!ENTITY whereIsTheEmail.email.delete.from.domain "Alle Adressen von '$DOMAIN' löschen">
+<!ENTITY whereIsTheEmail.email.search "E-Mail-Adresse suchen...">
+<!ENTITY whereIsTheEmail.email.add "E-Mail-Adresse hinzufügen zu '$DOMAIN'...">
+<!ENTITY whereIsTheEmail.email.add.selected "E-Mail-Adressen des Auswahltextes hinzufügen zu '$DOMAIN'">
+<!ENTITY whereIsTheEmail.database.empty "Datenbank leeren">
+<!ENTITY whereIsTheEmail.database.export "Datenbank exportieren">
+<!ENTITY whereIsTheEmail.database.import "Datenbank importieren">
+<!ENTITY whereIsTheEmail.collect.stop.for.domain "E-Mails-Sammeln für '$DOMAIN' beenden">
+<!ENTITY whereIsTheEmail.collect.start.for.domain "E-Mails-Sammeln für '$DOMAIN' wieder aufnehmen">
+<!ENTITY whereIsTheEmail.collect.stop "E-Mails-Sammeln beenden">
+<!ENTITY whereIsTheEmail.collect.start "E-Mails-Sammeln wieder aufnehmen">
+<!ENTITY whereIsTheEmail.disabled "Deaktiviert">
+<!ENTITY whereIsTheEmail.disabled.for.domain "Deaktiviert für '$DOMAIN'">

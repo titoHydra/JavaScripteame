@@ -1,0 +1,9 @@
+Sort tabs
+Adds tab sort option to the tab context menu.
+2
+Roberto bouzout (tito)
+extensiondevelopment@gmail.com
+tito@sorttabs
+8
+https://addons.mozilla.org/en-US/firefox/addon/5372/
+http://www.amazon.com/Roberto-Bouzout/wishlist/1AXD0MYDPQ1ZC/

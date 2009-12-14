@@ -1,0 +1,8 @@
+<!ENTITY sortTabs.sort.tabs.by.url "Sortér faner ud fra URL">
+<!ENTITY sortTabs.options.close.duplicates "Luk dubletter">
+<!ENTITY sortTabs.options.close.blank.tabs "Luk tomme faneblade">
+<!ENTITY sortTabs.options.sort.reverse "Omvendt sortering  [a-b-c] -&gt; [c-b-a]">
+<!ENTITY sortTabs.options.configuration "Indstillinger">
+<!ENTITY sortTabs.options.apply "Anvend">
+<!ENTITY sortTabs.options.save "Gem">
+<!ENTITY sortTabs.options.cancel "Annuller">

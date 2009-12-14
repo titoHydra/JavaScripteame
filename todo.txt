@@ -1,0 +1,28 @@
+GENERAL:
+	ver de nuevo los listeners, y las funciones anonimas
+FORMS
+	VER COMO HACER PAR AGUARDAR LOS DATOS DEL AUTOCOMPLETE SI ES NECESARIO
+NAVIGATOR
+	un cache loco que guarde ponele en una compartida los ultimos 50 valores de x cache para acelerar los procesos
+SQLITE
+	ver si puedo trabar con dos base de datos al mismo tiempo
+	la bse de datos deberia de manejar versiones
+	y manejar los updates incrementale
+	los backuos encarar diarios no pueden ser
+PREFERENCIAS
+	reset, import, export
+	XPCOM:detectar la preferencia y guardarla asegun el tipo y no hacer todas las locuras
+	hacer que existan distintos profiles para la extension
+COMPILER
+*CONSOLE 2
+	toogle xml/css/warning/javasript/Errors
+TAB FILTER
+	agregar una tecla de acceso directo
+EXTENSIONS IDEAS
+	al hacer boton derecho en frame poner en el menu contextual "ver propiedades de frame o lo que sea de internet explorer"
+	compartir las cookies de firefox con seamonnkey
+	sacar el cartel "no preguntar otra vez cuando cerras el navegador y tenes pestañas abiertas"
+	linked image became real images
+ODPExtension 
+	ver de manejar bien el tema de si el servidor de datos esta parkeado o algo de eso sigue mostrando informacion en el poppup
+	ver de meterle abajo del nick cuando esta inactivo

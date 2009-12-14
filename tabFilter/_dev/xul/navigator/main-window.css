@@ -1,0 +1,54 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#myExt-container
+{
+	padding-right:4px;
+	-moz-appearance: toolbar;
+}
+#myExt-filter-textbox
+{
+ 	-moz-appearance: none;
+	background-color:white;
+	color:black;
+	width:300px;
+	padding-left:2px !important;
+	padding-right:2px !important;
+	padding-bottom:2px !important;
+	padding-top:0px !important;
+	margin:2px !important;
+}
+#myExt-filter-textbox[status="notfound"]
+{
+	-moz-appearance: none;
+	background-color:#FF6666;
+	color:white;
+}
+
+#myExt-undo, #myExt-close, .myExt-toolbartext{
+	border:1px solid transparent !important;
+	margin:0px !important;
+	padding:0px !important;
+  -moz-appearance: none;
+}
+#myExt-undo {
+	cursor:pointer;
+	list-style-image:url("chrome://myExt/content/xul/navigator/buttons.png");
+	-moz-image-region: rect(0px, 16px, 16px, 0px);
+}
+#myExt-undo:hover {
+	-moz-image-region: rect(16px, 16px, 32px, 0px);
+}
+#myExt-close
+{
+	list-style-image: url("chrome://myExt/content/xul/navigator/close.png");
+	-moz-image-region: rect(0px, 14px, 14px, 0px);
+	padding-left:6px;
+	margin-left:3px !important;
+}
+#myExt-close:hover {
+	-moz-image-region: rect(0px, 28px, 14px, 14px);
+}
+#myExt-close:hover:active {
+	-moz-image-region: rect(0px, 42px, 14px, 28px);
+}
+

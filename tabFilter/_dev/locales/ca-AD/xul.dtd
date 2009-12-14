@@ -1,0 +1,8 @@
+<!ENTITY tabFilter.filter.tabs "Filtra pestanyes...">
+<!ENTITY tabFilter.undo.tab.filter "Desfés Filtre de pestanyes">
+<!ENTITY tabFilter.filter "Filtra...">
+<!ENTITY tabFilter.title "Títol">
+<!ENTITY tabFilter.url "Adreça URL">
+<!ENTITY tabFilter.both "Ambdues">
+<!ENTITY tabFilter.close.window "Close Window">
+<!ENTITY tabFilter.tabFilter "Filtre de Pestanyes:">

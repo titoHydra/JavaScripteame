@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://sortTabs/locale/xul.dtd"> 
+
+<dialog 
+	title="Sort tabs" 
+	id="myExt-preferences-window"
+	onload="sizeToContent();" 
+	ondialogaccept="myExt.preferencesSave();return true;" 
+	ondialogcancel="myExt.preferencesLoad();return true;" 
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	
+	<script type="application/x-javascript" src="chrome://sortTabs/content/core/navigator.js"/>
+	<script type="application/x-javascript" src="chrome://sortTabs/content/core/preferences.js"/>
+	<script type="application/x-javascript" src="chrome://sortTabs/content/lib/dom.js"/>
+	<script type="application/x-javascript" src="chrome://sortTabs/content/lib/strings.js"/>
+	<script type="application/x-javascript" src="chrome://sortTabs/content/lib/sharedMemory.js"/>	
+	<script type="application/x-javascript" src="chrome://sortTabs/content/js/preferences.js"/>
+
+	<vbox>
+		<groupbox>
+			<caption label="&sortTabs.options.configuration;"/>
+				<checkbox label="&sortTabs.options.close.duplicates;" id="close.duplicates"/>
+				<checkbox label="&sortTabs.options.close.blank.tabs;" id="close.blank.tabs"/>
+				<checkbox label="&sortTabs.options.sort.reverse;" id="sort.reverse"/>
+		</groupbox>
+	</vbox>
+	<hbox>
+		<button label="&sortTabs.options.apply;" id="myApply" oncommand="myExt.preferencesApply();"/>
+		<button label="&sortTabs.options.save;" dlgtype="accept" id="myAccept"/>
+		<button label="&sortTabs.options.cancel;" dlgtype="cancel" id="myCancel"/>
+	</hbox>
+
+</dialog>

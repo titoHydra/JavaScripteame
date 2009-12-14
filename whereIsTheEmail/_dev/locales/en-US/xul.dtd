@@ -1,0 +1,24 @@
+<!ENTITY myExt.emails.for.domain.not.found "No emails collected">
+<!ENTITY myExt.emails.for.domain.found "$NUM email collected">
+<!ENTITY myExt.email.copy "Copy email to clipboard">
+<!ENTITY myExt.email.copy.all "Copy all to clipboard">
+<!ENTITY myExt.email.copy.selected "Copy selected emails to clipboard">
+<!ENTITY myExt.compose.to "Compose to...">
+<!ENTITY myExt.compose.to.all "Compose to all...">
+<!ENTITY myExt.open.page.were.email.was.found "Open page were email was found">
+<!ENTITY myExt.view.all.from.domain "View all from '$DOMAIN'">
+<!ENTITY myExt.email.delete "Delete email">
+<!ENTITY myExt.email.delete.from.domain "Delete all from '$DOMAIN'">
+<!ENTITY myExt.email.search "Email search...">
+<!ENTITY myExt.email.add "Add email to '$DOMAIN'...">
+<!ENTITY myExt.email.add.selected "Add selected emails to '$DOMAIN'">
+<!ENTITY myExt.database.empty "Empty database">
+<!ENTITY myExt.database.export "Export database">
+<!ENTITY myExt.database.import "Import database">
+<!ENTITY myExt.collect.stop.for.domain "Stop emails collecting for '$DOMAIN'">
+<!ENTITY myExt.collect.start.for.domain "Re-start emails collecting for '$DOMAIN'">
+<!ENTITY myExt.collect.stop "Stop all email collection">
+<!ENTITY myExt.collect.start "Re-start email collection">
+<!ENTITY myExt.disabled "Disabled">
+<!ENTITY myExt.disabled.for.domain "Disabled for '$DOMAIN'">
+

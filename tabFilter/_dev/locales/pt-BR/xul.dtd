@@ -1,0 +1,8 @@
+<!ENTITY tabFilter.filter.tabs "Filtrar abas...">
+<!ENTITY tabFilter.undo.tab.filter "Desfazer filtragem de abas">
+<!ENTITY tabFilter.filter "Filtrar...">
+<!ENTITY tabFilter.title "Título">
+<!ENTITY tabFilter.url "Endereço">
+<!ENTITY tabFilter.both "Ambos">
+<!ENTITY tabFilter.close.window "Fechar janela">
+<!ENTITY tabFilter.tabFilter "Filtro de abas:">

@@ -1,0 +1,9 @@
+Console Log & Alert
+Helps you improve the quality of the code, by disturbing your happy browsing putting alerts in a visible place when an error containing a desirable string occurs. Also it logs all the errors to a database so you can view these later in another browsing session or after a browser crash. This is not a substitute of the error console. This is a helper for real world tests. Such a dump string "this will never happen!"
+0
+Roberto bouzout (tito)
+extensiondevelopment@gmail.com
+tito@console2
+1
+
+http://www.amazon.com/Roberto-Bouzout/wishlist/1AXD0MYDPQ1ZC/

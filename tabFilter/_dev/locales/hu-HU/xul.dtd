@@ -1,0 +1,8 @@
+<!ENTITY tabFilter.filter.tabs "Lapok szűrése...">
+<!ENTITY tabFilter.undo.tab.filter "Visszavonás">
+<!ENTITY tabFilter.filter "Szűrő...">
+<!ENTITY tabFilter.title "Cím">
+<!ENTITY tabFilter.url "URL">
+<!ENTITY tabFilter.both "Mindkettő">
+<!ENTITY tabFilter.close.window "Ablak bezárása">
+<!ENTITY tabFilter.tabFilter "Lap szűrő:">
