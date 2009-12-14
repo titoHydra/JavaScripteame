@@ -1,9 +1,0 @@
-Where's the email!?
-Collects emails from webpages and puts these into a menu-icon in the location bar.
-0
-Roberto bouzout (tito)
-extensiondevelopment@gmail.com
-tito@idm
-2
-https://addons.mozilla.org/en-US/firefox/addon/49244/
-http://www.amazon.com/Roberto-Bouzout/wishlist/1AXD0MYDPQ1ZC/

@@ -1,8 +1,0 @@
-<!ENTITY tabFilter.filter.tabs "Filtruj karty…">
-<!ENTITY tabFilter.undo.tab.filter "Przywróć poprzedni stan">
-<!ENTITY tabFilter.filter "Wprowadź filtr">
-<!ENTITY tabFilter.title "Tytuł">
-<!ENTITY tabFilter.url "URL">
-<!ENTITY tabFilter.both "Oba">
-<!ENTITY tabFilter.close.window "Zamknij okno">
-<!ENTITY tabFilter.tabFilter "Filtr karty:">

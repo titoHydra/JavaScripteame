@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Organizar abas por URL">
-<!ENTITY sortTabs.options.close.duplicates "Fechar duplicados">
-<!ENTITY sortTabs.options.close.blank.tabs "Fechar abas em branco">
-<!ENTITY sortTabs.options.sort.reverse "Inverter ordenação [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Configuração">
-<!ENTITY sortTabs.options.apply "Aplicar">
-<!ENTITY sortTabs.options.save "Salvar">
-<!ENTITY sortTabs.options.cancel "Cancelar">

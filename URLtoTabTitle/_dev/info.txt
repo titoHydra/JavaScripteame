@@ -1,9 +1,0 @@
-URL To Tab Title
-Puts the URLs of the tabs in the title of the tab.
-0
-Roberto bouzout (tito)
-extensiondevelopment@gmail.com
-tito@url-to-tab-title
-3
-https://addons.mozilla.org/en-US/firefox/addon/47215/
-http://www.amazon.com/Roberto-Bouzout/wishlist/1AXD0MYDPQ1ZC/

@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "URL순으로 탭 정렬">
-<!ENTITY sortTabs.options.close.duplicates "복사본 닫기">
-<!ENTITY sortTabs.options.close.blank.tabs "빈 탭 닫기">
-<!ENTITY sortTabs.options.sort.reverse "역순 정렬 [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "환경설정">
-<!ENTITY sortTabs.options.apply "적용">
-<!ENTITY sortTabs.options.save "저장">
-<!ENTITY sortTabs.options.cancel "취소">

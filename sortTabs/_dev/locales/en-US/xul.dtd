@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Sort tabs by URL">
-<!ENTITY sortTabs.options.close.duplicates "Close duplicates">
-<!ENTITY sortTabs.options.close.blank.tabs "Close blank tabs">
-<!ENTITY sortTabs.options.sort.reverse "Reverse sorting  [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Configuration">
-<!ENTITY sortTabs.options.apply "Apply">
-<!ENTITY sortTabs.options.save "Save">
-<!ENTITY sortTabs.options.cancel "Cancel">

@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Поређај језичке по адреси">
-<!ENTITY sortTabs.options.close.duplicates "Затвори дупликате">
-<!ENTITY sortTabs.options.close.blank.tabs "Затвори празне језичке">
-<!ENTITY sortTabs.options.sort.reverse "Обрни редослед [а-б-в] -&gt; [в-б-а]">
-<!ENTITY sortTabs.options.configuration "Подешавања">
-<!ENTITY sortTabs.options.apply "Примени">
-<!ENTITY sortTabs.options.save "Сачувај">
-<!ENTITY sortTabs.options.cancel "Откажи">

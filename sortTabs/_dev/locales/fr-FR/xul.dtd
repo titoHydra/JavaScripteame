@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Trier les onglets par URL">
-<!ENTITY sortTabs.options.close.duplicates "Fermer les doublons d'onglets">
-<!ENTITY sortTabs.options.close.blank.tabs "Fermer les onglets vides">
-<!ENTITY sortTabs.options.sort.reverse "Inverser l'ordre ([a-b-c] ► [c-b-a])">
-<!ENTITY sortTabs.options.configuration "Autres actions à inclure">
-<!ENTITY sortTabs.options.apply "Appliquer">
-<!ENTITY sortTabs.options.save "Enregistrer">
-<!ENTITY sortTabs.options.cancel "Annuler">

@@ -1,8 +1,0 @@
-<!ENTITY tabFilter.filter.tabs "Filter Tabs...">
-<!ENTITY tabFilter.undo.tab.filter "Undo Tab Filter">
-<!ENTITY tabFilter.filter "Filter...">
-<!ENTITY tabFilter.title "Title">
-<!ENTITY tabFilter.url "URL">
-<!ENTITY tabFilter.both "Both">
-<!ENTITY tabFilter.close.window "Close">
-<!ENTITY tabFilter.tabFilter "Tab Filter : ">

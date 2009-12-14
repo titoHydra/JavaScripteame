@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Tabs nach Adresse sortieren">
-<!ENTITY sortTabs.options.close.duplicates "Doppelte entfernen">
-<!ENTITY sortTabs.options.close.blank.tabs "Leere Tabs schließen">
-<!ENTITY sortTabs.options.sort.reverse "Umgekehrt sortieren [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Einstellungen">
-<!ENTITY sortTabs.options.apply "Übernehmen">
-<!ENTITY sortTabs.options.save "Speichern">
-<!ENTITY sortTabs.options.cancel "Abbrechen">

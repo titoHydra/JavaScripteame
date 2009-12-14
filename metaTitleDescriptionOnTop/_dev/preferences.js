@@ -1,1 +1,0 @@
-pref("extensions.__EXT_ID__.description", "chrome://myExt/locale/js.properties");

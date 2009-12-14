@@ -1,8 +1,0 @@
-<!ENTITY tabFilter.filter.tabs "Tabs filtern...">
-<!ENTITY tabFilter.undo.tab.filter "Tab-Filter zurücksetzen">
-<!ENTITY tabFilter.filter "In Tab-Titel und -Adresse zu suchender Text">
-<!ENTITY tabFilter.title "Titel">
-<!ENTITY tabFilter.url "Adresse">
-<!ENTITY tabFilter.both "Titel und Adresse">
-<!ENTITY tabFilter.close.window "Formular schließen">
-<!ENTITY tabFilter.tabFilter "Tab Filter : ">

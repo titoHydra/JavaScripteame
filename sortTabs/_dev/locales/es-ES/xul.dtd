@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Ordenar pestañas por URL">
-<!ENTITY sortTabs.options.close.duplicates "Cerrar pestañas duplicadas">
-<!ENTITY sortTabs.options.close.blank.tabs "Cerrar pestañas en blanco">
-<!ENTITY sortTabs.options.sort.reverse "Invertir orden  [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Configuración">
-<!ENTITY sortTabs.options.apply "Aplicar">
-<!ENTITY sortTabs.options.save "Guardar">
-<!ENTITY sortTabs.options.cancel "Cancelar">

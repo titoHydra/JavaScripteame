@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Ordena pestanyes per adreça URL">
-<!ENTITY sortTabs.options.close.duplicates "Tanca duplicades">
-<!ENTITY sortTabs.options.close.blank.tabs "Tanca pestanyes buides">
-<!ENTITY sortTabs.options.sort.reverse "Inverteix l'ordre [a-b-c] &gt;&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Configuració">
-<!ENTITY sortTabs.options.apply "Aplica">
-<!ENTITY sortTabs.options.save "Salva">
-<!ENTITY sortTabs.options.cancel "Cancel.la">

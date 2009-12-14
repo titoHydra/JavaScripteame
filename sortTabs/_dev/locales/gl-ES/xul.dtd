@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Separadores pequenos por URL">
-<!ENTITY sortTabs.options.close.duplicates "Pechar os duplicados">
-<!ENTITY sortTabs.options.close.blank.tabs "Pecharo todos os separadores en branco">
-<!ENTITY sortTabs.options.sort.reverse "Orde inversa [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Configuración">
-<!ENTITY sortTabs.options.apply "Aplicar">
-<!ENTITY sortTabs.options.save "Gardar">
-<!ENTITY sortTabs.options.cancel "Cancelar">

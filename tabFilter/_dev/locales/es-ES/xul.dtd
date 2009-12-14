@@ -1,8 +1,0 @@
-<!ENTITY tabFilter.filter.tabs "Filtrar Pestañas...">
-<!ENTITY tabFilter.undo.tab.filter "Deshacer Filtro de Pestañas">
-<!ENTITY tabFilter.filter "Filtro...">
-<!ENTITY tabFilter.title "Título">
-<!ENTITY tabFilter.url "URL">
-<!ENTITY tabFilter.both "Ambos">
-<!ENTITY tabFilter.close.window "Cerrar">
-<!ENTITY tabFilter.tabFilter "Filtro de pestañas : ">

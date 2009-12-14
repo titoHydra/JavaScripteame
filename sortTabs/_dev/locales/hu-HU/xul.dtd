@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Lapok rendezése webcím szerint">
-<!ENTITY sortTabs.options.close.duplicates "Kettőzött (azonos) lapok bezárása">
-<!ENTITY sortTabs.options.close.blank.tabs "Üres (Névtelen) lapok bezárása">
-<!ENTITY sortTabs.options.sort.reverse "Fordított rendezés  [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Beállítások">
-<!ENTITY sortTabs.options.apply "Alkalmaz">
-<!ENTITY sortTabs.options.save "Mentés">
-<!ENTITY sortTabs.options.cancel "Mégse">

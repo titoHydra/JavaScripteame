@@ -1,8 +1,0 @@
-<!ENTITY tabFilter.filter.tabs "过滤标签...">
-<!ENTITY tabFilter.undo.tab.filter "取消标签过滤">
-<!ENTITY tabFilter.filter "过滤...">
-<!ENTITY tabFilter.title "标题">
-<!ENTITY tabFilter.url "URL">
-<!ENTITY tabFilter.both "两者">
-<!ENTITY tabFilter.close.window "关闭">
-<!ENTITY tabFilter.tabFilter "标签过滤器：">

@@ -1,8 +1,0 @@
-<!ENTITY sortTabs.sort.tabs.by.url "Ordina schede per URL">
-<!ENTITY sortTabs.options.close.duplicates "Chiudi le schede duplicate">
-<!ENTITY sortTabs.options.close.blank.tabs "Chiudi le schede vuote">
-<!ENTITY sortTabs.options.sort.reverse "Inverti l&apos;ordine delle schede [a-b-c] -&gt; [c-b-a]">
-<!ENTITY sortTabs.options.configuration "Impostazioni">
-<!ENTITY sortTabs.options.apply "Applica">
-<!ENTITY sortTabs.options.save "OK">
-<!ENTITY sortTabs.options.cancel "Annulla">

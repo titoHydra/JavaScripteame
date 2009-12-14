@@ -1,9 +1,0 @@
-Meta Descripton & Title on Top
-Puts the title and meta description bellow the tabbar.
-0
-Roberto bouzout (tito)
-extensiondevelopment@gmail.com
-tito@meta-title-meta-description-on-top
-0
-
-http://www.amazon.com/Roberto-Bouzout/wishlist/1AXD0MYDPQ1ZC/
